@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "socket.io": "^4.5.1"
+  },
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Realtime chat app use socket.io npm",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HienTVStack/Chat-App-NodeJS.git"
+  },
+  "author": "HienTV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HienTVStack/Chat-App-NodeJS/issues"
+  },
+  "homepage": "https://github.com/HienTVStack/Chat-App-NodeJS#readme"
+}
